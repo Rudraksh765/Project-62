@@ -1,0 +1,16 @@
+.imgs {
+    height: 600px;
+    width: 1000px;
+}
+
+.menu {
+    position: fixed;
+    background-color: black;
+    color: aliceblue;
+    font-weight: bold;
+    text-align: left;
+}
+
+body {
+    text-align: center;
+}
